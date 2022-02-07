@@ -20,9 +20,13 @@ TESTING STRATEGY (Manual Testing):
 
 
 AMMENDMENTS/ IMPROVEMENTS required:
-- Sorted lists favour uppercase over lower case, so if one record is written beginning with a lower case letter it will appear at the end of the list
+- Sorted lists favour uppercase over lower case, so if one record is written beginning with a lower case letter it will appear at the end of the list. This should be addressed as an improvement.
+- Better formatting of the printed 'master list' - i.e. print each contact labelled correctly and on separate lines
+- The search function should trigger subsequent options, after finding the entry (e.g. ask for modifications or deletion).
+- The search funtions show be possible by company name, phone number, or partial entries of any data record.
 
-Resources used:
+
+Resources used in writing code:
 
     - For help on building menus:
 
